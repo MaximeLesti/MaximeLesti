@@ -1,7 +1,7 @@
 ## Hi, I'm Maxime! 👋
 
 I'm currently a student at HEIG-VD and I loves pandas!
-![panda_IC]()
+![panda_IC](panda-IC.png)
 
 <!--
 **MaximeLesti/MaximeLesti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
