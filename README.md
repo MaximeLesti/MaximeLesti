@@ -3,7 +3,7 @@
 I'm currently a student in Computer Sciences (Cybersecurity) at HEIG-VD, but I'm really interesting by software engineering. 
 
 
-## Mes projects
+## My projects
 ### Scolar Projects:
 Organizations:
 - [La-Kirby-Team](https://github.com/La-Kirby-Team)
@@ -13,6 +13,9 @@ This organization was created to reunite all Laboratories of POO (Programmation 
  - [PINut Butter](https://github.com/PIN-Groupe-4)
 This organisation was created to make the Summer course PIN (Projet d'Informatique/Computer Sciences Project) 2024.
 
+### Private Projects
+- [CLICLAC]()
+This project consists to create an sowftware application to facilate the accounting of small business.
  
 
 
