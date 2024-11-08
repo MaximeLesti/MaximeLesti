@@ -1,4 +1,4 @@
-# Maxime Lestiboudois
+<h1> Maxime Lestiboudois </h1>
 ## Who I am
 I'm currently a student in Computer Sciences (Cybersecurity) at HEIG-VD, but I'm really interesting by software engineering. 
 
