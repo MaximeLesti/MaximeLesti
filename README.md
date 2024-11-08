@@ -1,4 +1,5 @@
-<h1> Maxime Lestiboudois </h1>
+<h1> <img src="panda-IC_rond.png" alt="panda" width="100" height="100"/> Maxime Lestiboudois </h1>
+
 ## Who I am
 I'm currently a student in Computer Sciences (Cybersecurity) at HEIG-VD, but I'm really interesting by software engineering. 
 
