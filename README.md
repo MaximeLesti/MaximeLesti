@@ -16,17 +16,17 @@ This organization was created to reunite all Laboratories of POO (Programmation 
 This organization was created to reunite all Laboratories of PCO (Programmation Concurrente/Concurrent Programming) course.
 
 Repositories:
-- [JaVelo](https://github.com/MaximeLesti/JaVelo)
+- [JaVelo](https://github.com/MaximeLesti/JaVelo)<br/>
 JaVelo is a program that calculates routes and itineraries throughout Switzerland for bicycles. It was designed under the direction of Michel Schinz as part of the programming course at EPFL. The program is the result of a collaboration.
-- [ISD_TP](https://github.com/MaximeLesti/ISD_TP)
+- [ISD_TP](https://github.com/MaximeLesti/ISD_TP)<br/>
 This repository brings together all TP (Pratical Works) carried out for the ISD (Introduction to DataSciences) course 2023-2024 at HEIG-VD. All TPs are the result of a collaboration.
-- [PRG-1](https://github.com/MaximeLesti/PRG-1)
+- [PRG-1](https://github.com/MaximeLesti/PRG-1)<br/>
 This repository brings together all Pratical Works carried out for the ISD (Introduction to DataSciences) course 2023-2024 at HEIG-VD.
-- [DAI-Project1](https://github.com/Nat004499/Dai-Project-1)
+- [DAI-Project1](https://github.com/Nat004499/Dai-Project-1)<br/>
 This repository contains the first DAI (Internet Application Development) project, the result of a collaboration
-- [DAI-Project2](https://github.com/MaximeLesti/DAI-Project2)
+- [DAI-Project2](https://github.com/MaximeLesti/DAI-Project2)<br/>
 This repository contains the second DAI (Internet Application Development) project, the result of a collaboration
-- [PST](https://github.com/MaximeLesti/R-Project)
+- [PST](https://github.com/MaximeLesti/R-Project)<br/>
 This repository was created to ensure project monitoring within the PST (Probabilties and Statistics) course 2024-2025 at HEIG-VD.
 
 ### Private Projects
