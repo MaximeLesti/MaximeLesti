@@ -15,10 +15,22 @@ This organization was created to reunite all Laboratories of POO (Programmation 
 - [PCO](https://github.com/PCO24MaximeTristan)<br/>
 This organization was created to reunite all Laboratories of PCO (Programmation Concurrente/Concurrent Programming) course.
 
-<!--Repositories:
-- []()-->
+Repositories:
+- [JaVelo](https://github.com/MaximeLesti/JaVelo)
+JaVelo is a program that calculates routes and itineraries throughout Switzerland for bicycles. It was designed under the direction of Michel Schinz as part of the programming course at EPFL. The program is the result of a collaboration.
+- [ISD_TP](https://github.com/MaximeLesti/ISD_TP)
+This repository brings together all TP (Pratical Works) carried out for the ISD (Introduction to DataSciences) course 2023-2024 at HEIG-VD. All TPs are the result of a collaboration.
+- [PRG-1](https://github.com/MaximeLesti/PRG-1)
+This repository brings together all Pratical Works carried out for the ISD (Introduction to DataSciences) course 2023-2024 at HEIG-VD.
+- [DAI-Project1](https://github.com/Nat004499/Dai-Project-1)
+This repository contains the first DAI (Internet Application Development) project, the result of a collaboration
+- [DAI-Project2](https://github.com/MaximeLesti/DAI-Project2)
+This repository contains the second DAI (Internet Application Development) project, the result of a collaboration
+- [PST](https://github.com/MaximeLesti/R-Project)
+This repository was created to ensure project monitoring within the PST (Probabilties and Statistics) course 2024-2025 at HEIG-VD.
 
 ### Private Projects
+Repositories:
 - [CLICLAC]()<br/>
 This project consists to create an sowftware application to facilate the accounting of small business.
  
